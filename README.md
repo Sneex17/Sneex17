@@ -38,7 +38,18 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
          alt="illustrator" width="40" height="40"/> 
   </a> 
+  
+<!-- Visual Studio -->
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
+       alt="visualstudio" width="40" height="40"/>
+</a>
 
+<!-- Visual Studio Code -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+       alt="vscode" width="40" height="40"/>
+</a>
 </p>
 
 
