@@ -50,6 +50,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
        alt="vscode" width="40" height="40"/>
 </a>
+
+<!-- GiHub -->
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=github"
+    alt="github" width="40" heigth="40"/>
+</a>
 </p>
 
 
