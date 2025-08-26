@@ -21,28 +21,23 @@
          alt="css3" width="40" height="40"/> 
   </a> 
 
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
-         alt="sqlserver" width="40" height="40"/> 
+  <!-- SQL -->
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+         alt="sql" width="40" height="40"/> 
   </a> 
 
   <!-- Photoshop -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" 
          alt="photoshop" width="40" height="40"/> 
   </a> 
 
-  <!-- Illustrator -->
+  <!-- Illustrator (versión anterior buena) -->
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" 
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
          alt="illustrator" width="40" height="40"/> 
   </a> 
-
-  <!-- DaVinci Resolve -->
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/davinci-resolve-12.svg" 
-         alt="davinci" width="40" height="40"/> 
-  </a> 
 </p>
+
 
