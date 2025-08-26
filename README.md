@@ -38,11 +38,13 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
          alt="illustrator" width="40" height="40"/> 
   </a> 
-</p>
 
-<!-- GitHub -->
+  <!-- GitHub -->
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
        alt="github" width="40" height="40"/> 
 </a>
+</p>
+
+
 
