@@ -29,7 +29,7 @@
 
   <!-- Photoshop -->
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" 
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" 
          alt="photoshop" width="40" height="40"/> 
   </a> 
 
