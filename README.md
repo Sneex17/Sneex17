@@ -39,11 +39,6 @@
          alt="illustrator" width="40" height="40"/> 
   </a> 
 
-  <!-- GitHub -->
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" 
-       alt="github" width="40" height="40"/>
-</a>
 </p>
 
 
