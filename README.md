@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sneex</h1>
+<h1 align="center">Hi 👋, I'm Sneex17</h1>
 <h3 align="center">Student, develop and designer🌟.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
