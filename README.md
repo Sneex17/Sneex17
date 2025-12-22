@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneex</h1>
 <h3 align="center">Student, develop and designer🌟.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
   <!-- C# -->
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer"> 
@@ -26,20 +26,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
          alt="sql" width="40" height="40"/> 
   </a> 
+</p>
 
-  <!-- Photoshop -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" 
-         alt="photoshop" width="40" height="40"/> 
-  </a> 
-
-  <!-- Illustrator (versión anterior buena) -->
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
-         alt="illustrator" width="40" height="40"/> 
-  </a> 
-  
-<!-- Visual Studio -->
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <!-- Visual Studio -->
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
        alt="visualstudio" width="40" height="40"/>
@@ -56,10 +47,18 @@
   <img src="https://skillicons.dev/icons?i=github"
     alt="github" width="40" heigth="40"/>
 </a>
-</p>
-<h3 align="left">Tools:</h3>
-<p align="left">
-  
+
+<!-- Photoshop -->
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" 
+         alt="photoshop" width="40" height="40"/> 
+  </a> 
+
+  <!-- Illustrator (versión anterior buena) -->
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
+         alt="illustrator" width="40" height="40"/> 
+  </a> 
 </p>
 
 
