@@ -71,3 +71,9 @@
         <img src="https://skillicons.dev/icons?i=unity" alt="Languages" />
       </a>
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sneex17&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=Sneex17&theme=radical&hide_border=false)
+
+
